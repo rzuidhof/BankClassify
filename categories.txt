@@ -1,19 +1,77 @@
-Income
-Bill - General
-Bill - Utilities
-Bill - Communications
-Travel - General
-Travel - Car
-Travel - Petrol
-Supermarket
-Cash Out
-Eating Out
-House
-Books
-Craft
-Charity Shop       
-Presents
-Toiletries
-Mortgage
-Paypal
-Unclassified
+Educatie - Boeken
+Educatie - College/lesgeld
+Educatie - Cursussen
+Educatie - School
+Huishouden - Afhaal
+Huishouden - Boodschappen
+Huishouden - Elektronica
+Huishouden - Geldopnames
+Huishouden - Huishoudelijke artikelen
+Huishouden - Kinderen
+Huishouden - Lunch
+Huishouden - Maatschappelijke organisaties
+Huishouden - Persoonlijke verzorging
+Huishouden - Post
+Huishouden - Tijdschriften/kranten
+Inkomsten - Alimentatie
+Inkomsten - Belastingteruggaaf
+Inkomsten - Belastingtoeslagen
+Inkomsten - Beleggingen/effecten
+Inkomsten - Bijverdiensten
+Inkomsten - Declaraties
+Inkomsten - Giften
+Inkomsten - Kinderbijslag
+Inkomsten - Overige inkomsten
+Inkomsten - Salaris
+Kleding - Accesoiress
+Kleding - Kleding
+Kleding - Schoenen
+Kleding - Sportkleding
+Medische kosten - Apotheek
+Medische kosten - Fysiotherapeut
+Medische kosten - Huisarts
+Medische kosten - Hulpmiddelen
+Medische kosten - Tandarts
+Medische kosten - Ziektekostenverzekering
+Overige uitgaven - Advocaat
+Overige uitgaven - Bankkosten
+Overige uitgaven - Belasting
+Overige uitgaven - Boetes
+Overige uitgaven - Creditcard
+Overige uitgaven - Debetrente
+Overige uitgaven - Leges
+Overige uitgaven - Overboekingen
+Overige uitgaven - Overige uitgaven
+Overige uitgaven - Schuldaflossing
+Overige uitgaven - Sparen
+Overige uitgaven - Western Union
+Telecom - Internet
+Telecom - Mobiele telefoon
+Telecom - Televisie
+Telecom - Vaste telefoon
+Vervoer - Brandstof
+Vervoer - Brommer/fietsverzekering
+Vervoer - Fiets
+Vervoer - Onderhoud
+Vervoer - Openbaar vervoer
+Vervoer - Parkeren
+Verzekeringen - Levensverzekering
+Verzekeringen - Lijfrentepolis
+Verzekeringen - Rechtsbijstandverzekering
+Verzekeringen - WA Verzekering
+Verzekeringen - Woonhuisverzekering
+Vrije tijd - Cadeau's
+Vrije tijd - Hobby's
+Vrije tijd - Loterijen
+Vrije tijd - Restaurants
+Vrije tijd - Sport
+Vrije tijd - Uitstapjes
+Vrije tijd - Vakantie
+Vrije tijd - Verenigingen
+Vrije tijd - Vuurwerk
+Wonen - Gas Water Licht
+Wonen - Gemeentelijke belastingen
+Wonen - Huur of hypotheek
+Wonen - Inrichting
+Wonen - Onderhoud
+Wonen - Servicekosten

@@ -9,13 +9,21 @@ from tabulate import tabulate
 
 class BankClassify():
 
-    def __init__(self, data="AllData.csv"):
+    def __init__(self, data="../AFAS.csv"):
         """Load in the previous data (by default from AllData.csv) and initialise the classifier"""
         if os.path.exists(data):
-            self.prev_data = pd.read_csv(data)
+            self.prev_data = pd.read_csv(data, sep = ';', usecols=['date2', 'manual_description', 'amount', 'category', 'subcategory'])
+            self.prev_data.columns = ['date', 'amount', 'desc', 'category', 'subcategory']
+            self.prev_data["cat"] = self.prev_data['category'] + " - " + self.prev_data['subcategory']
+            self.prev_data.drop(columns=['category','subcategory'],inplace=True)
+            colTitles = ['date', 'desc', 'amount', 'cat']
+            self.prev_data = self.prev_data.reindex(columns=colTitles)
+            self.prev_data = self.prev_data.dropna(axis=0, how='any')
+            print(self.prev_data)
+            input('Press ENTER to continue...')
         else:
             self.prev_data = pd.DataFrame(columns=['date', 'desc', 'amount', 'cat'])
-
+ 
         self.classifier = NaiveBayesClassifier(self._get_training(self.prev_data), self._extractor)
 
     def add_data(self, filename):

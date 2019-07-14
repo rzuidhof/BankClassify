@@ -3,13 +3,13 @@ From:01/08/2017to31/08/2017
 Account:XXXX XXXX XXXX XXXX
 							
 Date:31/08/2017
-Description:CARD PAYMENT TO SHELL TOTHILL,2.04 GBP, RATE 1.00/GBP ON 29-08-2013
-Amount:-2.04	
+Description:Planeta Capoeira lesgeld december 2017
+Amount:-21,60	
 Balance:2301.62
 						
 Date:31/08/2017
-Description:CARD PAYMENT TO ASDA SUPERSTORE ON 2013-08-29
-Amount:-23.46	
+Description:Rabo TotaalPakket Periode 01-03-2019 t/m 31-03-2019
+Amount:-4.70	
 Balance:2303.66
 						
 Date:30/08/2017
